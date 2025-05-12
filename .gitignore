@@ -21,3 +21,4 @@ yarn-error.log*
 # If it's a .NET + React hybrid
 bin/
 obj/
+.vs/
