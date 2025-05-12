@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SympliSeoTracker.API", "SympliSeoTracker.API\SympliSeoTracker.API.csproj", "{8364FE04-86C9-4043-8D5B-77923631CA46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SympliSeoTracker.Infrastructure", "SympliSeoTracker.Infrastructure\SympliSeoTracker.Infrastructure.csproj", "{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SympliSeoTracker.Tests", "SympliSeoTracker.Tests\SympliSeoTracker.Tests.csproj", "{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SympliSeoTracker.Application", "SympliSeoTracker.Application\SympliSeoTracker.Application.csproj", "{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SympliSeoTracker.Domain", "SympliSeoTracker.Domain\SympliSeoTracker.Domain.csproj", "{5E73428D-A91B-4C54-9708-F8156D0AEF65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8364FE04-86C9-4043-8D5B-77923631CA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8364FE04-86C9-4043-8D5B-77923631CA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8364FE04-86C9-4043-8D5B-77923631CA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8364FE04-86C9-4043-8D5B-77923631CA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E73428D-A91B-4C54-9708-F8156D0AEF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E73428D-A91B-4C54-9708-F8156D0AEF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E73428D-A91B-4C54-9708-F8156D0AEF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E73428D-A91B-4C54-9708-F8156D0AEF65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

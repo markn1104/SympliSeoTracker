@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\ASWhite\\Demo\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}|SympliSeoTracker.Application\\SympliSeoTracker.Application.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.application\\validators\\searchrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}|SympliSeoTracker.Application\\SympliSeoTracker.Application.csproj|solutionrelative:sympliseotracker.application\\validators\\searchrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.tests\\services\\googlesearchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|solutionrelative:sympliseotracker.tests\\services\\googlesearchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.tests\\services\\searchservicefactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|solutionrelative:sympliseotracker.tests\\services\\searchservicefactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.tests\\services\\bingsearchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|solutionrelative:sympliseotracker.tests\\services\\bingsearchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.infrastructure\\services\\searchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|solutionrelative:sympliseotracker.infrastructure\\services\\searchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.infrastructure\\caching\\memorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|solutionrelative:sympliseotracker.infrastructure\\caching\\memorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.infrastructure\\logging\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|solutionrelative:sympliseotracker.infrastructure\\logging\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.infrastructure\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|solutionrelative:sympliseotracker.infrastructure\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\interfaces\\isearchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\interfaces\\isearchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\enums\\searchprovidertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\enums\\searchprovidertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.infrastructure\\services\\bingsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0CB0E-1105-4B51-A8D1-91A7C8CD9CDF}|SympliSeoTracker.Infrastructure\\SympliSeoTracker.Infrastructure.csproj|solutionrelative:sympliseotracker.infrastructure\\services\\bingsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.domain\\constants\\searchconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E73428D-A91B-4C54-9708-F8156D0AEF65}|SympliSeoTracker.Domain\\SympliSeoTracker.Domain.csproj|solutionrelative:sympliseotracker.domain\\constants\\searchconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}|SympliSeoTracker.Application\\SympliSeoTracker.Application.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.application\\features\\search\\queries\\searchrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC15FB97-1CF8-4BC1-A61E-92E5E96A121E}|SympliSeoTracker.Application\\SympliSeoTracker.Application.csproj|solutionrelative:sympliseotracker.application\\features\\search\\queries\\searchrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.tests\\caching\\memorycacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5FDAFF-0B50-4EBB-80EB-2B7826E69CCA}|SympliSeoTracker.Tests\\SympliSeoTracker.Tests.csproj|solutionrelative:sympliseotracker.tests\\caching\\memorycacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\features\\search\\queries\\getsearchpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\features\\search\\queries\\getsearchpositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|d:\\work\\aswhite\\demo\\backend\\sympliseotracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8364FE04-86C9-4043-8D5B-77923631CA46}|SympliSeoTracker.API\\SympliSeoTracker.API.csproj|solutionrelative:sympliseotracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Interfaces\\ICacheService.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Interfaces\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:06:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\Program.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Program.cs",
+              "RelativeToolTip": "SympliSeoTracker.API\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:37:52.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "SympliSeoTracker.API\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:34.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "SympliSeoTracker.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:18:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Models\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Models\\SearchRequest.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Models\\SearchRequest.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Models\\SearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:07:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISearchServiceFactory.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ISearchServiceFactory.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Interfaces\\ISearchServiceFactory.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ISearchServiceFactory.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Interfaces\\ISearchServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:07:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchRequestValidator.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Application\\Validators\\SearchRequestValidator.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Application\\Validators\\SearchRequestValidator.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Application\\Validators\\SearchRequestValidator.cs",
+              "RelativeToolTip": "SympliSeoTracker.Application\\Validators\\SearchRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:13:33.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchServiceFactory.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\SearchServiceFactory.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Infrastructure\\Services\\SearchServiceFactory.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\SearchServiceFactory.cs",
+              "RelativeToolTip": "SympliSeoTracker.Infrastructure\\Services\\SearchServiceFactory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:52.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Logging\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Infrastructure\\Logging\\LoggerManager.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Logging\\LoggerManager.cs",
+              "RelativeToolTip": "SympliSeoTracker.Infrastructure\\Logging\\LoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:12:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleSearchServiceTests.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\GoogleSearchServiceTests.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Tests\\Services\\GoogleSearchServiceTests.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\GoogleSearchServiceTests.cs",
+              "RelativeToolTip": "SympliSeoTracker.Tests\\Services\\GoogleSearchServiceTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:13:38.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemoryCacheService.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Caching\\MemoryCacheService.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Infrastructure\\Caching\\MemoryCacheService.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Caching\\MemoryCacheService.cs",
+              "RelativeToolTip": "SympliSeoTracker.Infrastructure\\Caching\\MemoryCacheService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:12:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchServiceFactoryTests.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\SearchServiceFactoryTests.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Tests\\Services\\SearchServiceFactoryTests.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\SearchServiceFactoryTests.cs",
+              "RelativeToolTip": "SympliSeoTracker.Tests\\Services\\SearchServiceFactoryTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:39:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Interfaces\\ILoggerManager.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ILoggerManager.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Interfaces\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:06:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BingSearchServiceTests.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\BingSearchServiceTests.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Tests\\Services\\BingSearchServiceTests.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Services\\BingSearchServiceTests.cs",
+              "RelativeToolTip": "SympliSeoTracker.Tests\\Services\\BingSearchServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:44:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ISearchService.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Interfaces\\ISearchService.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Interfaces\\ISearchService.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Interfaces\\ISearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:07:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchProviderType.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Enums\\SearchProviderType.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Enums\\SearchProviderType.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Enums\\SearchProviderType.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Enums\\SearchProviderType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:07:21.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchConstants.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Constants\\SearchConstants.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Domain\\Constants\\SearchConstants.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Domain\\Constants\\SearchConstants.cs",
+              "RelativeToolTip": "SympliSeoTracker.Domain\\Constants\\SearchConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:06:07.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GoogleSearchService.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\GoogleSearchService.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Infrastructure\\Services\\GoogleSearchService.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\GoogleSearchService.cs",
+              "RelativeToolTip": "SympliSeoTracker.Infrastructure\\Services\\GoogleSearchService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchRequestHandler.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Application\\Features\\Search\\Queries\\SearchRequestHandler.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Application\\Features\\Search\\Queries\\SearchRequestHandler.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Application\\Features\\Search\\Queries\\SearchRequestHandler.cs",
+              "RelativeToolTip": "SympliSeoTracker.Application\\Features\\Search\\Queries\\SearchRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:41:32.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BingSearchService.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\BingSearchService.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Infrastructure\\Services\\BingSearchService.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Infrastructure\\Services\\BingSearchService.cs",
+              "RelativeToolTip": "SympliSeoTracker.Infrastructure\\Services\\BingSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetSearchPositions.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Features\\Search\\Queries\\GetSearchPositions.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\Features\\Search\\Queries\\GetSearchPositions.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Features\\Search\\Queries\\GetSearchPositions.cs",
+              "RelativeToolTip": "SympliSeoTracker.API\\Features\\Search\\Queries\\GetSearchPositions.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:27.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemoryCacheServiceTests.cs",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Caching\\MemoryCacheServiceTests.cs",
+              "RelativeDocumentMoniker": "SympliSeoTracker.Tests\\Caching\\MemoryCacheServiceTests.cs",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.Tests\\Caching\\MemoryCacheServiceTests.cs",
+              "RelativeToolTip": "SympliSeoTracker.Tests\\Caching\\MemoryCacheServiceTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:27:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\appsettings.json",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\appsettings.json",
+              "RelativeToolTip": "SympliSeoTracker.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T08:43:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SympliSeoTracker.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Work\\ASWhite\\Demo\\backend\\SympliSeoTracker.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SympliSeoTracker.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T08:43:51.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
