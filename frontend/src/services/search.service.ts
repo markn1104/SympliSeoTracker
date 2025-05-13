@@ -1,6 +1,5 @@
 import { IRankingResult } from "../types/RankingResult";
 import { ISearchRequest } from "../types/SearchRequest";
-import { ISupportBrowser } from "../types/SupportBrowser";
 import APIService from "./base";
 
 export default class SearchService {
@@ -21,8 +20,4 @@ export default class SearchService {
     throw error;
   }
 }
-
-  static async getSupportBrowsers(): Promise<ISupportBrowser[]> {
-    return APIService.get("/get-support-browsers");
-  }
 }
